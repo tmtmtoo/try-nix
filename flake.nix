@@ -31,6 +31,8 @@
           # pkgs.nodePackages.typescript-language-server
 
           pkgs.rye
+
+          pkgs.just
         ];
       };
     });
