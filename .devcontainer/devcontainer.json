@@ -9,5 +9,6 @@
                 "jnoortheen.nix-ide"
             ]
         }
-    }
+    },
+    "postCreateCommand": "nix develop"
 }
